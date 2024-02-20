@@ -7,5 +7,13 @@ E2Vec: Feature Embedding with Temporal Information for Analyzing Student Actions
 Submitted for review in the 17th International Conference on Educational Data Mining ([EDM 2024](https://educationaldatamining.org/edm2024/)).
 
 # File description
+## `1_Preprocessing.ipynb`
 
-TODO
+## `2_train_fastText.ipynb`
+
+## `3_Making_CodeBook.ipynb`
+
+## `4_Embedding_and_Aggregation.ipynb`
+
+## `5_At-risk_prediction.ipynb`
+
