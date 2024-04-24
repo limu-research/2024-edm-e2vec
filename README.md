@@ -42,6 +42,6 @@ If you use or build upon the materials, please use the BibTeX entry below to cit
     publisher = {International Educational Data Mining Society},
     month     = {07},
     year      = {2024},
-    numpages  = {},
+    numpages  = {9},
 }
 ```
