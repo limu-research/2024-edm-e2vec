@@ -32,7 +32,7 @@ See Section 7 in the paper.
 
 If you use or build upon the materials, please use the BibTeX entry below to cite the original paper (not only this web link).
 
-```
+```bibtex
 @inproceedings{Miyazaki2024e2vec,
     author    = {Miyazaki, Yuma and \v{S}v\'{a}bensk\'{y}, Valdemar and Taniguchi, Yuta and Okubo, Fumiya and Minematsu, Tsubasa and Shimada, Atsushi},
     title     = {{E2Vec: Feature Embedding with Temporal Information for Analyzing Student Actions in E-Book Systems}},
