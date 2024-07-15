@@ -4,7 +4,8 @@ This repository contains supplementary materials for the following conference pa
 
 Yuma Miyazaki, Valdemar Švábenský, Yuta Taniguchi, Fumiya Okubo, Tsubasa Minematsu, and Atsushi Shimada.\
 **E2Vec: Feature Embedding with Temporal Information for Analyzing Student Actions in E-Book Systems**.\
-In Proceedings of the 17th International Conference on Educational Data Mining ([EDM 2024](https://educationaldatamining.org/edm2024/)).
+In Proceedings of the 17th International Conference on Educational Data Mining ([EDM 2024](https://educationaldatamining.org/edm2024/)).\
+https://doi.org/10.5281/zenodo.12729854
 
 # File description
 
@@ -38,10 +39,14 @@ If you use or build upon the materials, please use the BibTeX entry below to cit
     title     = {{E2Vec: Feature Embedding with Temporal Information for Analyzing Student Actions in E-Book Systems}},
     booktitle = {Proceedings of the 17th International Conference on Educational Data Mining},
     series    = {EDM '24},
+    editor    = {Benjamin Paaßen and Carrie Demmans Epp},
     location  = {Atlanta, GA, USA},
     publisher = {International Educational Data Mining Society},
     month     = {07},
     year      = {2024},
+    pages     = {434--442},
     numpages  = {9},
+    url       = {https://educationaldatamining.org/edm2024/proceedings/2024.EDM-short-papers.42/2024.EDM-short-papers.42.pdf},
+    doi       = {10.5281/zenodo.12729854},
 }
 ```
